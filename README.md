@@ -134,10 +134,7 @@ estimate characteristic energy C3 (measure of the excess specific energy over th
 
 ## Reference    
 
-1.  On the Nature of Earth-Mars Porkchop Plots  
-[ https://trs.jpl.nasa.gov/bitstream/handle/2014/44336/13-0679_A1b.pdf ]  
-
-2.  Interplanetary Mission Design Handbook: Earth-to-Mars Mission Opportunities 2026 to 2045  
+1.  Interplanetary Mission Design Handbook: Earth-to-Mars Mission Opportunities 2026 to 2045  
 [ https://ntrs.nasa.gov/api/citations/20100037210/downloads/20100037210.pdf ]     
 
 ## Setup
