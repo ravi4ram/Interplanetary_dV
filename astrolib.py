@@ -22,7 +22,7 @@ np.set_printoptions(formatter={'float_kind':float_formatter})
 
 class astrolib:
     # skyfield init
-    jpl_ephemeris_path = r'./'
+    jpl_ephemeris_path = r'./data'
     # open the JPL ephemeris DE421
     jpl_ephemeris      = r'de421.bsp'
     
