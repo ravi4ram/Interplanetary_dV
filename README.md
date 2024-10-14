@@ -20,7 +20,7 @@ Program tested against the known details of ISRO's Venus Orbiter Mission (VOM) a
 &nbsp;         
 ![data](img/vom.png)   
 
-###Input :    
+### Input :    
 
 ```
 from_planet = 'earth'
@@ -31,7 +31,7 @@ start_date  = '30-03-2028'
 * Optimal Arrival date is calculated by selecting a set of days around hohmann tof day, and applying minimum of weighted mean average on c3, delta-v and phase angle data points.   
 * Assumed an initial parking orbit of [170 X 36000] km at of departure planet and an arrival parking orbit of [500 X 60000] km at arrival planet.
 
-###Output:      
+### Output:      
 ### Porkchop plot near optimal arrival date   
 
 ```   
